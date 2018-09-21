@@ -95,6 +95,7 @@ random.shuffle(deck)
 #test cde
 for x in deck:
     print(x)
+    #done testing github
 
 # Create the list to store the dealer's and player's hands
 dealer_hand = []
